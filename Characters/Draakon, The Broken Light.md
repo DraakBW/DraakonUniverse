@@ -17,7 +17,7 @@ share: true
 **Sex:** Male
 **Body Color(s):**
 - Main Fur is blue
-- Underbelly is white fur
+- Underbelly is white fur  
 **Physical Markings:**
 - Heart shapped blue mark on frontal pelvic area on the white part
 - Spear-tipped dragon tail that has been ripped slighly from an arrow shot

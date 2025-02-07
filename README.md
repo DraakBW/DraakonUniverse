@@ -5,7 +5,7 @@ share: true
 ---
 ## What is this?
 ---
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is my way of sharing my writings for my OCs and the lore of my universe I am creating for potential novels I might work on. I am still in the early stages of creation. I am using Obsidian to create all the various text files.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is my way of sharing my writings for my OCs and the lore of my universe I am creating for potential novels I might work on. I am still in the early stages of creation. I am using Obsidian to create all the various text files.
 
 ## Do I have permission to use these notes for myself?
 ---
