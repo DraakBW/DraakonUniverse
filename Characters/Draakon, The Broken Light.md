@@ -3,6 +3,7 @@ share: true
 ---
 # Main Info
 ---
+
 **First Name:** Draakon 
 **Surname:** BrightWeaver
 **Title:** The Broken Light
@@ -54,7 +55,7 @@ share: true
 **Relationship Status:** Single at the start, but finds a romantic partner as story progresses
 # **Backstory:**
 ---
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Draakon, "The Broken Light," is a brilliant draken arcane-illusionist. He is the only known living member of the Brightweaver clan, after the extermination. An Ace Student at the schools and University. He is the older brother to "[[./Azmodia, The One Thought Lost|Azmodia, The One Thought Lost]]," and Half brother to the clan's traitor "[[./Uzoniitoth, of Dead Scales|Uzoniitoth, of Dead Scales]]." Draakon was to become the clan's newest elder, and on the day of his appointment ceremony The human clan known as the conquerors infiltrated the Brightweaver stronghold with the aid of Uzoniitoth. They exterminated every one in his clan, he escaped using his illusionary magics to create a disguise to look like a human and he created made an illusion of himself to die. After the extermination in a fit of rage he created an arcane illness that would attempt to eradicate humanity.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Draakon, "The Broken Light," is a brilliant draken arcane-illusionist. He is the only known living member of the Brightweaver clan, after the extermination. An Ace Student at the schools and University. He is the older brother to "[[Azmodia, The One Thought Lost|Azmodia, The One Thought Lost]]," and Half brother to the clan's traitor "[[Uzoniitoth, of Dead Scales|Uzoniitoth, of Dead Scales]]." Draakon was to become the clan's newest elder, and on the day of his appointment ceremony The human clan known as the conquerors infiltrated the Brightweaver stronghold with the aid of Uzoniitoth. They exterminated every one in his clan, he escaped using his illusionary magics to create a disguise to look like a human and he created made an illusion of himself to die. After the extermination in a fit of rage he created an arcane illness that would attempt to eradicate humanity.
 
 
 
