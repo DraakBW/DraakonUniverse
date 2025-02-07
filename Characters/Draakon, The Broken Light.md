@@ -6,7 +6,11 @@ share: true
 **First Name:** Draakon 
 **Surname:** BrightWeaver
 **Title:** The Broken Light
-**Title Meaning:** He lost everything in an extermination event breaking his happiness (or his "Light.") 
+**Title Meaning:** He lost everything in an extermination event breaking his happiness (or his "Light.")
+
+**Reference Drawing:**
+
+(Placeholder text)
 ### **Physical Traits**
 ---
 **Race:** Draken-Souled Fox
