@@ -1,6 +1,3 @@
----
-share: true
----
 # Welcome To My Knowledge Base
 ---
 ## What is this?
