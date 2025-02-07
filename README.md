@@ -1,5 +1,7 @@
 ---
 share: true
+cssclasses:
+  - no-properties
 ---
 # Welcome To My Knowledge Base
 ---
