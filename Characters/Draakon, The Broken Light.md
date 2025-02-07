@@ -1,7 +1,6 @@
 ---
-share: "true"
+share: true
 ---
-
 # Main Info
 ---
 **First Name:** Draakon 
