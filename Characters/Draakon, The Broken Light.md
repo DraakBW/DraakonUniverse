@@ -10,6 +10,7 @@ share: true
 **Title Meaning:** He lost everything in an extermination event breaking his happiness (or his "Light.")
 
 **Reference Drawing:**
+
 ### **Physical Traits**
 ---
 **Race:** Draken-Souled Fox
