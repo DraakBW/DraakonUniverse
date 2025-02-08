@@ -52,7 +52,7 @@ share: true
 **Relationship Status:** Taken
 # **Backstory:**
 ---
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Azmodia, "The One Thought Lost" is a naive draken concubine. He was thought to be exterminated with the rest of the Brightweaver clan, after the extermination. He is the younger brother to "[[./Draakon, The Broken Light|Draakon, The Broken Light]]," and Half brother to the clan's traitor "Uzoniitoth, of Dead Scales."Uzoniitoth hide Azmodia from the conquerors when he orchestrated their attack. Azmodia serves as Uzoniitoths concubine slave. He is young and does not remember his life before becoming a slave.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Azmodia, "The One Thought Lost" is a naive draken concubine. He was thought to be exterminated with the rest of the Brightweaver clan, after the extermination. He is the younger brother to "[Draakon, The Broken Light](./Draakon,%20The%20Broken%20Light.md)," and Half brother to the clan's traitor "[Uzoniitoth, of Dead Scales](../Uzoniitoth,%20of%20Dead%20Scales.md)."Uzoniitoth hide Azmodia from the conquerors when he orchestrated their attack. Azmodia serves as Uzoniitoths concubine slave. He is young and does not remember his life before becoming a slave.
 
 
 
